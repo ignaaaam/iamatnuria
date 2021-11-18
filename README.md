@@ -2,7 +2,7 @@
 
 <h3>who am i?</h3>
 
-<img src="https://raw.githubusercontent.com/iamatnuria/iamatnuria/main/GitHub%20header.png">
+<img src="https://raw.githubusercontent.com/iamatnuria/iamatnuria/main/header.png">
 
  - 🔭 I'm currently on my last year of web development studies
  - 🌱 I'm currently sharpening my skills on JS, and then I'll master React. I'm also studying cybersecurity as a hobby

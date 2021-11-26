@@ -13,7 +13,7 @@
  
 <h3 id="social">contact me</h3>
 
-<a href="//github.com/iamatnuria"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a href="//github.com/iamatnuria/repositories"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
 <a href="//codepen.io/ignaaaam"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
 <a href="//www.behance.net/igna21df"><img src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/behance.svg" width="30px" /></a>
 

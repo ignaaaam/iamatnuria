@@ -8,7 +8,7 @@
  - 🌱 I'm currently sharpening my skills on JS, and then I'll master React. I'm also studying cybersecurity as a hobby
  - 👯 I'm looking to help people building full stack web apps!
  - 💬 Ask me about Web Development basics, cybersecurity & more!
- - ⚡ Soon I'll have my [portfolio](#) finished filled with all my work!
+ - ⚡ Soon I'll have my [portfolio](https://ignathedev.com/) finished filled with all my work!
 
  
 <h3 id="social">contact me</h3>

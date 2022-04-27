@@ -13,9 +13,11 @@
  
 <h3 id="social">contact me</h3>
 
-<a href="https://github.com/iamatnuria?tab=repositories"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//codepen.io/ignaaaam"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
-<a href="//www.behance.net/igna21df"><img src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/behance.svg" width="30px" /></a>
+<a class="socials" target="_blank" href="https://github.com/iamatnuria?tab=repositories"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
+<a class="socials" target="_blank" href="//linkedin.com/in/ignacio-amat-urbina-789244223"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg" width="30px" /></a>
+<a class="socials" target="_blank" href="//twitter.com/ignaamm"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter.svg" width="30px" /></a>
+<a class="socials" target="_blank" href="//codepen.io/ignaaaam"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
+<a class="socials" target="_blank" href="//www.behance.net/igna21df"><img src="https://raw.githubusercontent.com/Automattic/social-logos/trunk/svg-min/behance.svg" width="30px" /></a>
 
 
 <h3>things i code with</h3>

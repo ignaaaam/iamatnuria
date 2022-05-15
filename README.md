@@ -45,3 +45,8 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="30px"></span>&nbsp;
+
+[![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamatnuria&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamatnuria&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
